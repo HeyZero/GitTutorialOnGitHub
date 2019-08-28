@@ -9,4 +9,4 @@ hello again!
 
 this is a new txt for new branch
 
-now this a txt for the master
+it has already fixed
